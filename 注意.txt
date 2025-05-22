@@ -1,0 +1,2 @@
+未初始化仓库内容
+如果你在创建仓库时未勾选 "Initialize this repository with a README" ，且未推送任何代码，仓库可能没有生成任何分支（包括 main）。
