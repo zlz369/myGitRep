@@ -1,0 +1,5 @@
+注意要使用git push origin main:dev-2
+
+含义 git push <远程主机名> <本地分支名>:<远程分支名>
+
+git push origin dev-local:dev-2 (没有冲突)
